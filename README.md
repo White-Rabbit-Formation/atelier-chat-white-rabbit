@@ -1,6 +1,6 @@
 # White Rabbit Chat présentation
 
-[https://youtu.be/T0Gzf61K8mk](https://youtu.be/T0Gzf61K8mk)
+[![Vidéo Youtube](https://img.youtube.com/vi/T0Gzf61K8mk/0.jpg)](https://www.youtube.com/watch?v=T0Gzf61K8mk)
 
 # Création d'un projet nodejs
 
