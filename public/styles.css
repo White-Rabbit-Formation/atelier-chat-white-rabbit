@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+#messageArea {
+    border: 10px solid #000;
+    bottom: 0;
+    height: 60px;
+    left: 0;
+    outline: none;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+#message{
+    height: 100%;
+    width: 95%;
+}
+li{color: #01B1DB}
+li:nth-child(2n){
+    color:#CF0060;
+}
+button{
+    height: 100%;
+    background-color:#44c767;
+    border:1px solid #18ab29;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-size:17px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #2f6627;
+}
+button:hover {
+    background-color:#5cbf2a;
+}
+button:active {
+    position:relative;
+    top:1px;
+}
+ul {
+    list-style: none;
+    word-wrap: break-word;
+}
